@@ -1,0 +1,31 @@
+import turtle
+wn = turtle.Screen()
+
+turtle.left(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(50)
+turtle.right(90)
+turtle.forward(50)
+turtle.right(90)
+turtle.forward(50)
+turtle.left(180)
+turtle.forward(50)
+turtle.right(90)
+turtle.forward(50)
+
+turtle.penup()
+turtle.left(90)
+turtle.forward(10)
+
+turtle.pendown()
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(50)
+turtle.right(90)
+turtle.forward(50)
+turtle.right(90)
+turtle.forward(50)
+
